@@ -3,7 +3,7 @@
 ### Running command on Linux or WSL2
 
 ```
-sudo ./configuration-lunux-dev.sh
+sudo ./configuration-linux-dev.sh
 ```
 
 #### This script contains the installations of:
