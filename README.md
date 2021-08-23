@@ -12,6 +12,8 @@ sudo ./configuration-lunux-dev.sh
 
 > nvm
 
+> install nodejs
+
 > docker
 
 > docker-compose
