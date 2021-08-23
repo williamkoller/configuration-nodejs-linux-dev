@@ -1,4 +1,4 @@
-# Configuration Linux Dev
+# Configuration for Linux or WSL2
 
 ### Running command on Linux or WSL2
 
