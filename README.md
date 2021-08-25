@@ -1,9 +1,9 @@
-# Configuration Linux Dev
+# Development setup for NodeJS language on Linux or WSL2
 
 ### Running command on Linux or WSL2
 
 ```
-sudo ./configuration-lunux-dev.sh
+sudo ./configuration-nodejs-linux-dev.sh
 ```
 
 #### This script contains the installations of:
