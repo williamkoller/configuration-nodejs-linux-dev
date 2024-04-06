@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Install curl" 
 sudo apt install curl -y
 
@@ -8,7 +10,6 @@ echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.zshrc
 echo '[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"' >> ~/.zshrc
 echo '[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"' >> ~/.zshrc
 
-# Reinicie seu terminal ou execute `source ~/.zshrc` para aplicar as alterações no arquivo .zshrc
 
 echo "Install Node.js LTS"
 nvm install --lts
